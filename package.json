@@ -1,0 +1,27 @@
+{
+  "name": "telegram-trivia-bot",
+  "version": "0.0.1",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jesus-ale43/telegram-trivia-bot.git"
+  },
+  "author": {
+    "name": "Jesús Alejandro (jesus-ale43)",
+    "email": "jesusmolinarodrigue26@gmail.com",
+    "url": "https://github.com/jesus-ale43"
+  },
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/jesus-ale43/telegram-trivia-bot/issues",
+    "email": "jesusmolinarodrigue26@gmail.com"
+  },
+  "homepage": "https://github.com/jesus-ale43/telegram-trivia-bot#readme",
+  "dependencies": {
+    "telegraf": "^4.16.3"
+  }
+}
